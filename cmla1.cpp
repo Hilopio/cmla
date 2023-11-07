@@ -1,3 +1,7 @@
+// Необходимо поместить файл с матрицей в одну папку с программой
+
+
+
 #include <iostream>
 #include <cmath>
 #include <vector>
